@@ -7,7 +7,25 @@
 		<key>Centurion.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>5</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>2B2BC37B20A9512A008B112F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2B2BC38F20A9512C008B112F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2B2BC39A20A9512C008B112F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
