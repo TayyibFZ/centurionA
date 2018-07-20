@@ -1,0 +1,6 @@
+framework module Pods_CenturionUITests {
+  umbrella header "Pods-CenturionUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
